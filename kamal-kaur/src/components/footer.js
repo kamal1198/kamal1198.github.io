@@ -1,8 +1,8 @@
 import react from "react";
 function Footer(){
     return (
-        <footer>
-            <h4>Github</h4>
+        <footer style={{background:"gray",color:"white",}}>
+            <h4>Github:kamal1198</h4>
         </footer>
     )
 }

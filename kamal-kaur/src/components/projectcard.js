@@ -5,6 +5,7 @@ function Projectcard(props){
         <div>{props.title}
         <p>{props.description}</p>
         <a href={props.link}><p>view code</p></a>
+        <img style={{width:"200px",}} alt={props.title} src={require(`../images/${props.image}.png`)}/>
         </div>
     )
 }
