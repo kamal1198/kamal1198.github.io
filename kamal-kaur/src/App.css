@@ -37,5 +37,6 @@
   }
 }
 #main {
-  background-color: gray;
+  background-color:rgba(0, 0, 0, 0.777);
+  color: aliceblue;
 }
