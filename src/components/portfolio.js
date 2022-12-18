@@ -1,5 +1,5 @@
 import react from 'react';
-import Projectcard from './projectcard'
+import Projectcard from './ProjectCard'
 
 function Portfolio(){
     const projects=[

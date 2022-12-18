@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import react ,{useState} from 'react';
 import './App.css';
-import Header from './components/header';
-import Footer from './components/footer';
-import Home from './components/home'
-import About from './components/about';
-import Portfolio from './components/portfolio';
-import Contact from './components/contact';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Home from './components/Home'
+import About from './components/About';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {

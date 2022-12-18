@@ -1,5 +1,5 @@
 import react from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 function Header({currentPage,handlePageChange}){
     
     return (
