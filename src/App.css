@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+  .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -36,11 +36,12 @@
     transform: rotate(360deg);
   }
 }
-#main {
+  #main {
   background-color:rgba(0, 0, 0, 0.777);
   color: aliceblue;
 }
-.postcard {
+
+  .postcard {
   width: 1000px; 
   margin: 10px auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
